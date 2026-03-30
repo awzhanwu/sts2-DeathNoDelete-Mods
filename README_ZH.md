@@ -8,6 +8,8 @@
 ![Game](https://img.shields.io/badge/Slay_The_Spire_2-Mod-red.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20|%20Godot-lightgrey.svg)
 
+<img src="images/header.png" width="50%" alt="header">
+
 *《杀戮尖塔2》的DeathNoDelete模组*
 
 </div>
