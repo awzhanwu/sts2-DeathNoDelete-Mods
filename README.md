@@ -13,6 +13,7 @@
 </div>
 
 Have you ever been **instantly wiped out** because you miscalculated simple kindergarten-level addition/subtraction or elementary school multiplication/division?
+
 Or maybe you **missed** checking your hand cards or buffs and ended up **dying suddenly**?
 
 No worries! This mod is here to help you!
@@ -20,9 +21,10 @@ No worries! This mod is here to help you!
 ## ✨ Core Features
 
 After loading this mod, <u>**unless you win or give up**</u>, your save file **will not be deleted**.
+
 Say goodbye to unlucky runs ending in sudden death!
-> In multiplayer mode, the **host must load** the mod for it to take effect.
-> Similarly, other players besides the host do not need to load it.
+
+> In multiplayer mode, the **host must load** the mod for it to take effect. Similarly, other players besides the host do not need to load it.
 
 ## 🎮 Installation
 
