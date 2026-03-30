@@ -1,0 +1,11 @@
+{
+  "id": "DeathNoDelete",
+  "name": "DeathNoDelete",
+  "author": "zhan__wu",
+  "description": "Death does not delete the run.",
+  "version": "0.0.1",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}
